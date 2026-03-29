@@ -57,3 +57,15 @@ Basta abrir o `index.html` no navegador.
   &nbsp;&nbsp;&nbsp;
   <img src="screenshots/04-busca-mobile.png" width="280" alt="Busca Mobile">
 </p>
+## Autor
+
+<div align="center">
+
+**Geozedeque Guimarães**
+
+Estudante de Ciência da Computação — CIn-UFPE
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeozedequeGuimaraes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/geozedeque-guimaraes)
+
+</div>
