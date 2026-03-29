@@ -72,7 +72,7 @@ Basta abrir o `index.html` no navegador — sem dependências ou instalação ne
 
 ---
 
-## Preview
+## Screenshots
 
 ### Desktop
 
