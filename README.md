@@ -26,30 +26,6 @@
 
 ---
 
-## Preview
-
-### Desktop
-
-<div align="center">
-  <img src="screenshots/01-fullpage-desktop.png" alt="Desktop" width="700">
-</div>
-
-### Busca funcional — filtra produtos em tempo real
-
-<div align="center">
-  <img src="screenshots/02-busca-desktop.png" alt="Busca Desktop" width="700">
-</div>
-
-### Mobile
-
-<p align="center">
-  <img src="screenshots/03-fullpage-mobile.png" width="280" alt="Mobile">
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/04-busca-mobile.png" width="280" alt="Busca Mobile">
-</p>
-
----
-
 ## Funcionalidades
 
 - **Busca em tempo real** — filtra produtos por nome ou sabor enquanto digita
@@ -93,6 +69,30 @@ double-dip/
 ## Como Rodar
 
 Basta abrir o `index.html` no navegador — sem dependências ou instalação necessária.
+
+---
+
+## Preview
+
+### Desktop
+
+<div align="center">
+  <img src="screenshots/01-fullpage-desktop.png" alt="Desktop" width="700">
+</div>
+
+### Busca funcional — filtra produtos em tempo real
+
+<div align="center">
+  <img src="screenshots/02-busca-desktop.png" alt="Busca Desktop" width="700">
+</div>
+
+### Mobile
+
+<p align="center">
+  <img src="screenshots/03-fullpage-mobile.png" width="280" alt="Mobile">
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/04-busca-mobile.png" width="280" alt="Busca Mobile">
+</p>
 
 ---
 
