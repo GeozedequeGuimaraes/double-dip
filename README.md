@@ -5,21 +5,6 @@
 
 Site de uma sorveteria fictícia, desenvolvido com HTML, CSS e JavaScript puro.
 
-## Preview
-
-### Desktop
-![Desktop](screenshots/01-fullpage-desktop.png)
-
-### Busca funcional - filtra produtos em tempo real
-![Busca Desktop](screenshots/02-busca-desktop.png)
-
-### Mobile com busca expandida
-<p align="center">
-  <img src="screenshots/03-fullpage-mobile.png" width="280" alt="Mobile">
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/04-busca-mobile.png" width="280" alt="Busca Mobile">
-</p>
-
 ## Funcionalidades
 
 - Busca funcional que filtra produtos em tempo real por nome ou sabor
@@ -57,3 +42,18 @@ double-dip/
 ## Como rodar
 
 Basta abrir o `index.html` no navegador.
+
+## Preview
+
+### Desktop
+![Desktop](screenshots/01-fullpage-desktop.png)
+
+### Busca funcional - filtra produtos em tempo real
+![Busca Desktop](screenshots/02-busca-desktop.png)
+
+### Mobile com busca expandida
+<p align="center">
+  <img src="screenshots/03-fullpage-mobile.png" width="280" alt="Mobile">
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/04-busca-mobile.png" width="280" alt="Busca Mobile">
+</p>
